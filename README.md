@@ -54,5 +54,3 @@ Understanding which product categories drive revenue helps in inventory manageme
 The overall analysis culminates in a precise, high-value demographic target for future sales strategies:
 
 > ⭐ **Married women (Age Group 26-35 yrs) from UP, Maharashtra, and Karnataka, working in the IT, Healthcare, and Aviation sectors, are most likely to buy products from the Food, Clothing, and Electronics categories.**
-
-This insight allows the E-commerce team to maximize ROI by focusing marketing spend and seasonal product pushes directly toward this proven high-value segment.
